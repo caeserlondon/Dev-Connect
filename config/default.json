@@ -1,3 +1,3 @@
 {
-	"mongoURI": "mongodb+srv://caeserlondon:<caeserlondon>@dev-connect.z9b5f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://caeserlondon:caeserlondon@dev-connect.z9b5f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
