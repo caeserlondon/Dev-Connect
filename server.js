@@ -7,6 +7,10 @@ const app = express();
 //connect data base
 connectDB();
 
+//init middleware
+// app.use(bodyParser.json())  the old way bit now it comes with express
+app.use(express.json());
+
 app.get('/', (req, res) => res.send('API Running'));
 
 //define Routes
